@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+# import pandas as pd
 from scipy.integrate import solve_ivp
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
